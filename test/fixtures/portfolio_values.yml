@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  portfolio: one
+  value: 9.99
+  date: 2019-07-09 19:23:43
+
+two:
+  portfolio: two
+  value: 9.99
+  date: 2019-07-09 19:23:43

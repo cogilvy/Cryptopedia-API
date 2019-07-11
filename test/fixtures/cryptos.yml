@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  symbol: MyString
+  price: 1
+  logo: MyString
+  market_cap: 1
+  volume: 1
+  change_1hr: 1
+  change_24hr: 1
+  change_7d: 1
+
+two:
+  name: MyString
+  symbol: MyString
+  price: 1
+  logo: MyString
+  market_cap: 1
+  volume: 1
+  change_1hr: 1
+  change_24hr: 1
+  change_7d: 1
