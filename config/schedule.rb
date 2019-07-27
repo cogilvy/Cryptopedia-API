@@ -24,5 +24,5 @@ every 5.minutes do
 end
 
 every 1.day, at: '12:01pm' do
-  rake "portfolios:get_values RAILS_ENV=development"
+  rake "portfolios:get_values"
 end
